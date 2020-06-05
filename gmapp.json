@@ -1,0 +1,17 @@
+{
+  "name":"Gas Station",
+  "id":"91217994",
+  "template": "DriverFirst",
+  "theme" : {"primary": "#00C0FF"},
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "app.js",
+  "icon": "Icon.png",
+  "developer": "Jennifer Naasz",
+  "category": "General",
+  "type": "RemoteHigh",
+  "description": "Generated on 6/4/2020, 12:03:08 AM by ngi-sdk version ",
+  "trusted": true,
+  "dffVersion": "1.6.0-alpha"
+}
